@@ -1,6 +1,6 @@
-<h3>0x0C-python-almost_a_circle<h3>
+<h2>0x0C-python-almost_a_circle</h2>
 <hr>
-<h4>Models/<h4>
+<h3>Models/</h3>
 <hr>
 <ul>
 <li>base.py<br>
@@ -17,10 +17,10 @@ This makes the folder a python module.
 </li>
 </ul>
 <hr>
-<h4>tests/<h4>
+<h3>tests/</h3>
 This folder contains the test files and folders of this project.
 <hr>
-<h4>test_models/<h4>
+<h3>test_models/</h3>
 Test folder contains unittests for the model folder.
 <br>
 <ul>
